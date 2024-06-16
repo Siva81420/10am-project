@@ -1,2 +1,3 @@
 this is my new project
-java based project
+java based application
+second day upday in my new project
