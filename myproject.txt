@@ -1,3 +1,4 @@
 this is my new project
-java based application
-second day upday in my new project
+java based application & web site
+second day upday in my new project completed
+
